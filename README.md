@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishi-Coding22
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently working on MySellerCentral portal
+- 🌱 I’m currently working on MySellerCentral team
 - 💞️ SDE @KasCommerce
 - 📫 How to reach me email - saptarshi@kascomerce.com
 
